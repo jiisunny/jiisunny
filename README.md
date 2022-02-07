@@ -1,5 +1,5 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiisunny&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-### Hi there 👋 Welcome to my GitHub 😁
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisun%20Kim&fontAlign=80&fontAlignY=40&color=gradient)
+#### Hi there 👋 Welcome to my GitHub 😁
 
 <br />
 
@@ -17,6 +17,8 @@
 
 # 🔗 Portfolio Website
 
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiisunny&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!--
 **jiisunny/jiisunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
