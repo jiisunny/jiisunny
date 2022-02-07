@@ -1,8 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisun%20Kim's%20GitHub&fontAlign=50&fontAlignY=35&color=gradient&fontSize=40)
-
-#### Hi there 👋 Welcome to my GitHub 😁
-
-<br />
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there!%20Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=35&color=gradient&fontSize=30)
 
 # 👩🏻‍💻 Primary Tech Stacks
 
