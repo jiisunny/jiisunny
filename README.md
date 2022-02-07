@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisun%20Kim&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisun%20Kim's%20GitHub&fontAlign=50&fontAlignY=35&color=gradient&fontSize=40)
 #### Hi there 👋 Welcome to my GitHub 😁
 
 <br />
