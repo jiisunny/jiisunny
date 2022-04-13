@@ -2,11 +2,11 @@
 
 # 👩🏻‍💻 Primary Tech Stacks
 
-### Front-end : <span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></span>
+### Languages : <span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></span>
+
+### Tools : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></span>
 
 ### Deployment : <span><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></span>
-
-### Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
 
 ### Design : <span><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/></span>
 
@@ -20,6 +20,10 @@
 ### [Jisun Kim's Portfolio](https://infallible-heisenberg-75d4ab.netlify.app/)
 
 ![김지선의 포트폴리오 메인페이지](https://raw.githubusercontent.com/jiisunny/jisunkim-portfolio/master/_assets/main_screenshot.png)
+
+# ✉️ Contact Me
+
+### [![Naver Badge](https://img.shields.io/badge/Naver-03c75a?style=flat-square&logo=Naver&logoColor=white&link=mailto:jisunny302@naver.com)](mailto:jisunny302@naver.com) : jisunny302@naver.com
 
 <br /><br />
 
