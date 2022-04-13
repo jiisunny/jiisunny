@@ -23,7 +23,7 @@
 
 # ✉️ Contact Me
 
-### [![Naver Badge](https://img.shields.io/badge/Naver-03c75a?style=flat-square&logo=Naver&logoColor=white&link=mailto:jisunny302@naver.com)](mailto:jisunny302@naver.com) : jisunny302@naver.com
+### [![Naver Badge](https://img.shields.io/badge/Naver-03c75a?style=flat-square&logo=Naver&logoColor=white&link=mailto:jisunny302@naver.com)](mailto:jisunny302@naver.com) jisunny302@naver.com
 
 <br /><br />
 
