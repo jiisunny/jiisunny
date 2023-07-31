@@ -12,13 +12,14 @@
 
 <br />
 
+<!--
 ![jiisunny's github stats](https://github-readme-stats.vercel.app/api?username=jiisunny&show_icons=true)
+-->
 [![jiisunny's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiisunny&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jiisunny)
 
 # 🔗 Portfolio Website
 
 ### [Jisun Kim's Portfolio](https://infallible-heisenberg-75d4ab.netlify.app/)
-
 ![김지선의 포트폴리오 메인페이지](https://raw.githubusercontent.com/jiisunny/jisunkim-portfolio/master/_assets/main_screenshot.png)
 
 # ✉️ E-Mail
